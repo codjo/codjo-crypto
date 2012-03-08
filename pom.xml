@@ -23,8 +23,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    <dependencies>
-    </dependencies>
 
     <!--
     | Project Information
