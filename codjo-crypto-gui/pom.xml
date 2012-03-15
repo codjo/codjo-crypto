@@ -29,6 +29,7 @@
         <dependency>
             <groupId>net.codjo.test</groupId>
             <artifactId>codjo-test-common</artifactId>
+            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>uispec4j</groupId>
